@@ -131,6 +131,6 @@ dependencies:
   - zlib=1.2.11=h8395fce_2
   - zope=1.0=py36_1
   - zope.interface=4.5.0=py36hfa6e2cd_0
-  - opencv-contrib=3.3.1=py
+  - opencv-contrib=3.3.1=py36_1
 prefix: C:\Users\Marcial\Anaconda3\envs\cvcourse_windows
 
